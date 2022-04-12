@@ -25,4 +25,16 @@ Pembuatan fungsi dan cara pemanggilannya dan hasilnya.<br>
 
 ## Dasar Pemrograman Di Javascript
 Operasi dasar aritmatika dan hasilnya.<br>
-![Lab5web](im)
+![Lab5web](img/operasi%20dasar%20aritmatika.png)<br>
+
+Seleksi kondisi (if..else)<br>
+![Lab5web](img/seleksi%20kondisi.PNG)
+
+Penggunaan operator switch untuk seleksi kondisi dan hasilnya.<br>
+![Lab5web](img/operator%20switch.png)<br>
+
+### Pembuatan Form
+Form Input dan hasilnya.<br>
+![Lab5web](img/form%20input.PNG)<br>
+
+Form Button dan hasilnya.<br>
