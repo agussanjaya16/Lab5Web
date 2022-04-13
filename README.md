@@ -28,11 +28,4 @@ Operasi dasar aritmatika dan hasilnya.<br>
 ![Lab5web](img/operasi%20dasar%20aritmatik.png)<br>
 
 Seleksi kondisi (if..else)<br>
-![Lab5web](img/seleksi%20kondisi.png)
-Penggunaan operator switch untuk seleksi kondisi dan hasilnya.<br>
-![Lab5web](img)<br>
-
-### Pembuatan Form
-Form Input dan hasilnya.<br>
-![Lab5web](img)<br>
-asilnya.<br>
+![Lab5web](img/seleksi%20kondisi.png)<br>
